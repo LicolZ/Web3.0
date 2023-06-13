@@ -43,9 +43,7 @@ const Welcome = () => {
                         <div className={`rounded-bl-2xl ${commonStyles}`}>
                             Web 3.0
                         </div>
-                        <div className={`rounded-bl-2xl ${commonStyles}`}>
-                            Low fees
-                        </div>
+                        <div className={commonStyles}>Low fees</div>
                         <div className={`rounded-br-2xl ${commonStyles}`}>
                             Blockchain
                         </div>
